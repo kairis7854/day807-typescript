@@ -1,7 +1,7 @@
 # day807-typescript
 
 ## DEMO
-連結：
+連結：https://kairis7854.github.io/day807-typescript/
 
 <br>
 
